@@ -3,9 +3,11 @@ The application can be used in place of the built in lock screen for Windows (an
 
 ## Recomended Installation
 ### For Users
+---
 Download the "prebuilt" folder and run the .exe to run the application!
 
 ### For Developers
+---
 If you're a developer wanting to make changes to the program then click download zip or run the following in your terminal
 `git https://github.com/snipeout9702/LockApplication.git`
 
