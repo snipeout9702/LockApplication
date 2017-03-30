@@ -1,0 +1,11 @@
+/home/tom/Documents/Dev/CSharp/LockApplication/LockApplication/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/tom/Documents/Dev/CSharp/LockApplication/LockApplication/bin/Debug/LockApplication.exe.mdb
+/home/tom/Documents/Dev/CSharp/LockApplication/LockApplication/bin/Debug/LockApplication.exe
+/home/tom/Documents/Dev/CSharp/LockApplication/LockApplication/obj/x86/Debug/LockApplication.exe
+/home/tom/Documents/Dev/CSharp/LockApplication/LockApplication/obj/x86/Debug/LockApplication.exe.mdb
+/home/tom/Documents/Dev/CSharp/LockApplication/LockApplication/bin/Debug/Password.txt
+/home/tom/Documents/Dev/CSharp/LockApplication/LockApplication/bin/Debug/InstructionBoxText.txt
+/home/tom/Documents/Dev/CSharp/LockApplication/LockApplication/bin/Debug/Hint.txt
+/home/tom/Documents/Dev/CSharp/LockApplication/LockApplication/bin/Debug/Settings/Hint.txt
+/home/tom/Documents/Dev/CSharp/LockApplication/LockApplication/bin/Debug/Settings/InstructionBoxText.txt
+/home/tom/Documents/Dev/CSharp/LockApplication/LockApplication/bin/Debug/Settings/Password.txt
